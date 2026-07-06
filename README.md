@@ -28,9 +28,9 @@ Built features to organize playlists while exploring recommendation logic and da
 
 ## 🍽️ ByteBites
 
-**Skills:** Python, Object-Oriented Programming (OOP), UML
+**Skills:** Python, Object Oriented Programming (OOP), UML
 
-Developed an object-oriented restaurant ordering system using Python classes, methods, encapsulation and UML to better understand software design principles.
+Developed an object oriented restaurant ordering system using Python classes, methods, encapsulation and UML to better understand software design principles.
 
 🔗 **Repository:** [ByteBites](https://github.com/bhavikak99/bytebites-tinker-activity)
 
@@ -38,7 +38,7 @@ Developed an object-oriented restaurant ordering system using Python classes, me
 
 ## 🐾 PawPal+
 
-**Skills:** Python, Streamlit, Object-Oriented Programming (OOP), Scheduling Algorithms, JSON, Pytest
+**Skills:** Python, Streamlit, Object Oriented Programming (OOP), Scheduling Algorithms, JSON, Pytest
 
 Designed and built a pet care scheduler featuring automated scheduling, JSON data persistence, unit testing with Pytest and comprehensive documentation.
 
