@@ -1,4 +1,4 @@
-# 🚀 CodePath Software Engineering Projects
+# 🚀 CodePath Projects
 
 A collection of software engineering projects I completed through the CodePath Software Engineering Program.
 
