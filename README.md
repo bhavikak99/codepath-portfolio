@@ -58,7 +58,7 @@ Built and compared rule-based AI and machine learning models for sentiment analy
 
 ## 🌱 What's Next?
 
-I'm continuing to expand this portfolio as I build new software engineering and AI projects through CodePath, AI4ALL, and personal projects.
+I'm continuing to expand this portfolio as I build new software engineering and AI projects through CodePath and personal projects.
 
 ---
 
