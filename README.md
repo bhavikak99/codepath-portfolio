@@ -2,7 +2,7 @@
 
 A collection of software engineering projects I completed through the CodePath Software Engineering Program.
 
-These projects helped me strengthen my skills in debugging, object-oriented programming, software design, testing, and introductory artificial intelligence. Each one challenged me to think more critically about problem solving and writing maintainable code.
+These projects helped me strengthen my skills in debugging, object oriented programming, software design, testing and introductory artificial intelligence. Each one challenged me to think more critically about problem solving and writing maintainable code.
 
 ---
 
@@ -30,7 +30,7 @@ Built features to organize playlists while exploring recommendation logic and da
 
 **Skills:** Python, Object-Oriented Programming (OOP), UML
 
-Developed an object-oriented restaurant ordering system using Python classes, methods, encapsulation, and UML to better understand software design principles.
+Developed an object-oriented restaurant ordering system using Python classes, methods, encapsulation and UML to better understand software design principles.
 
 🔗 **Repository:** [ByteBites](https://github.com/bhavikak99/bytebites-tinker-activity)
 
@@ -40,7 +40,7 @@ Developed an object-oriented restaurant ordering system using Python classes, me
 
 **Skills:** Python, Streamlit, Object-Oriented Programming (OOP), Scheduling Algorithms, JSON, Pytest
 
-Designed and built a pet care scheduler featuring automated scheduling, JSON data persistence, unit testing with Pytest, and comprehensive documentation.
+Designed and built a pet care scheduler featuring automated scheduling, JSON data persistence, unit testing with Pytest and comprehensive documentation.
 
 🔗 **Repository:** [PawPal+](https://github.com/bhavikak99/pawpal-plus)
 
